@@ -6,7 +6,6 @@ I was sick of paying spotify money and thought the default media player is too c
 
 Folders are your playlists. You are able to change the volume, enable shuffle mode, enable loop mode, skip or rewind songs, and of course stop and play.
 
-As much as it may look simple, it takes 10x less ram than spotify, and 3x less ram than the default media player. 
 
 
 
