@@ -15,6 +15,6 @@ def rename_files(folder_path):
     print("All files renamed successfully.")
 
 # Replace 'folder_path' with the path to your folder
-folder_path = 'C:/Users/kanov/Music/techno'
+folder_path = 'C:/your/path/to/folder'
 
 rename_files(folder_path)
