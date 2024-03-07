@@ -11,7 +11,7 @@ class MusicPlayer:
     def __init__(self, root, startup_volume=10):
         self.root = root
         self.root.title("mufi's shitbox")
-        self.root.geometry("365x175")
+        self.root.geometry("375x175")
 
         self.playlist = []
         self.current_track = 0
